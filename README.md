@@ -1,1 +1,1 @@
-Select and inssert video - supabase 
+Select and insert video - supabase 
